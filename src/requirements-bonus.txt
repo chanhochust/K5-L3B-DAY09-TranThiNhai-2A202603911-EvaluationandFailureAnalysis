@@ -1,0 +1,2 @@
+# Bonus only (src/bonus_lab9): Inspect AI port of 3 graders. Not needed by CI or the core lab.
+inspect_ai==0.3.291

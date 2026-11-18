@@ -18,5 +18,8 @@ traces/
 *.sqlite-*
 student_drop/
 
+# Inspect AI logs from the bonus port (src/bonus_lab9).
+src/logs/
+
 # Instructor-only hidden pack from Day 8. Never push it.
 src/eval/instructor/
